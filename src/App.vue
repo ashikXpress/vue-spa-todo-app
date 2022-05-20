@@ -17,16 +17,14 @@
 </template>
 
 <style>
-html,body{
-  height: 100%;
-}
+
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   color: #2c3e50;
   background-color: #42b983;
-  height: 100%;
+  min-height: 601px;
 }
 
 #nav {
